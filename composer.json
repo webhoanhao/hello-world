@@ -1,6 +1,6 @@
 {
     "name": "webhoanhao/hello-world",
-    "description": "Dự án Chào Thế Giới của Web Hoàn Hảo",
+    "description": "Hello World",
     "require": {
         "php": ">=7.0.0"
     },
