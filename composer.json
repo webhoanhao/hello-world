@@ -11,10 +11,10 @@
             "email": "webhoanhao@gmail.com"
         }
     ],
-    "minimum-stability": "dev",
 	"autoload": {
         "psr-4": {
             "webhoanhao\\SayHello\\": "src/"
         }
-    }
+    },
+	"minimum-stability": "stable"
 }
